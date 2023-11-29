@@ -1,0 +1,6 @@
+version: "2"
+authtoken: 2YlNqfVx3XzyHBf77SOLHFcHf64_2HVHjK45EU88jPJNcLuH6
+tunnels:
+  your_tunnel_name:
+    proto: http
+    addr: 8000         #ngrok http --domain=evolving-closing-chamois.ngrok-free.app 8000
