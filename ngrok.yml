@@ -1,5 +1,5 @@
 version: "2"
-authtoken: 2YlNqfVx3XzyHBf77SOLHFcHf64_2HVHjK45EU88jPJNcLuH6
+authtoken: "you token"
 tunnels:
   your_tunnel_name:
     proto: http
